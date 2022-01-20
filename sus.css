@@ -1,15 +1,37 @@
 .cotert {
     text-align: center;
     font-size: 50px;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans Hebrew', sans-serif;
 }
 
 .minic {
     text-align: center;
+    color: white;
+    font-family: 'Noto Sans Hebrew', sans-serif;
 }
-span {
-    margin: 0 10px;
+
     
-}
+
 .t {
     text-align: right;
+    color: white;
+    font-family: 'Noto Sans Hebrew', sans-serif;
+}
+
+.imf {
+    margin-left: 300px;
+    
+}
+.nek {
+    color: black;
+}
+body {
+    background-color: black;
+}
+.imfa {
+    margin-left: 300px;
+    max-width: 50%;
+    max-height: 50%;
 }
